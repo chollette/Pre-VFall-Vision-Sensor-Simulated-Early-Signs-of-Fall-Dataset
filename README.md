@@ -14,7 +14,7 @@ The **Pre-VFall dataset** is a multimodal dataset that includes images, keygradi
   - `weakness_fall_forward`
   - `weakness_fall_side`
 - **Images**: Around 22K images selected from recorded videos.
-- ** Gradient Magnitude and Gradient Direction Features.
+- **Features**: Keygradient magnitude and Keygradient direction features extracted from connected OpenPose skeletal keypoint pairs. 
 - **Activity Classes**:
   - **Normal**: No signs of abnormality or falls.
   - **Abnormal**: Includes pre-fall activities like weakness, dizziness, delirium-confusion, and NPH-confusion.
