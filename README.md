@@ -25,7 +25,7 @@ The dataset is intended for machine learning applications to identify pattern cu
 ## Download Instructions
 
 1. **Visit the Download Link**
-   -Download Pre-VFall Dataset([https://example.com/dataset](https://doi.org/10.6084/m9.figshare.26488216.v3))
+   -Download Pre-VFall Dataset(https://doi.org/10.6084/m9.figshare.26488216.v3)
 2. **RE-Run Feature Extraction**
    -If you choose to use all frames of the recorded videos, use provided "Feature Extraction.py" python script for extracting magnitude and direction features.
 
