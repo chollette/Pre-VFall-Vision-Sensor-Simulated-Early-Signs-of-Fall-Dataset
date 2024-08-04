@@ -27,7 +27,7 @@ The dataset is intended for machine learning applications to identify pattern cu
 1. **Visit the Download Link**
    -(https://doi.org/10.6084/m9.figshare.26488216.v3)
 2. **RE-Run Feature Extraction**
-   -If you choose to use all frames of the recorded videos, use provided "Feature Extraction.py" python script for extracting magnitude and direction features.
+   -If you choose to use all frames of the recorded videos, use provided "Feature Extraction.py" python script for extracting magnitude and direction features. Additional script is provided for converting json-to-csv, should such function be needed. 
 
 
 ## Citation
